@@ -1,0 +1,12 @@
+name: Rangi
+main: me.colorwell.KitGui.Main
+description: nothing
+version: 1.0
+author: colorwell
+
+commands:
+  rangi:
+    description: Komenda przedstawi Ci co robia poszczegolne rangi na serverze.
+  kity:
+    description: Odbierz zestaw ktory ultawi Ci rozgrywke na serverze.
+  pomoc2:
